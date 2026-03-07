@@ -4,6 +4,8 @@ A biomechanically-grounded mouse movement algorithm that outperforms WindMouse a
 
 Built for my Masters research on novel mouse movement humanization techniques.
 
+Full paper is now released: https://zenodo.org/records/18872499
+
 ## What it does
 
 SigmaDrift generates point-to-point mouse trajectories using six interacting components from computational motor control research:
